@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some observations made upon the Cylonian plant Shewing its admirable virtues against deafness. Written by a physitian to the Honourable Esq; Boyle.</title>
+            <author>Mullins, James, physician.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56762</idno>
+            <idno type="STC">Wing P931C</idno>
+            <idno type="STC">ESTC R217234</idno>
+            <idno type="EEBO-CITATION">99828929</idno>
+            <idno type="PROQUEST">99828929</idno>
+            <idno type="VID">33362</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56762)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33362)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1933:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some observations made upon the Cylonian plant Shewing its admirable virtues against deafness. Written by a physitian to the Honourable Esq; Boyle.</title>
+                  <author>Mullins, James, physician.</author>
+                  <author>Peachi, John, fl. 1683, attributed name.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: James Mullins.</note>
+                  <note>Attributed by Wing (2nd ed.) to John Peachie [sic].</note>
+                  <note>Formerly identified in Wing (1st ed.) as: M3060.</note>
+                  <note>Copy cataloged has MS. annotation: "[James Mullins] has name in".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Materia medica, Vegetable --  Early works to 1800.</term>
+               <term>Deafness --  Treatment --  Early works to 1800.</term>
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33362:1" rendition="simple:additions"/>
+            <p>SOME OBSERVATIONS Made upon the Cylonian Plant.</p>
+            <p>SHEWING Its Admirable VIRTUES againſt DEAFNESS.</p>
+            <p>Written by a Phyſitian to the Honourable <abbr>Eſq</abbr> 
+               <hi>Boyle.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:33362:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:33362:2" rendition="simple:additions"/>
+            <head>SOME OBSERVATIONS Made upon the Cylonian Plant.</head>
+            <head type="sub">SHEWING Its Admirable VIRTUES againſt DEAFNESS. In a LETTER, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Perceive that <hi>Petrus de Oſſma</hi> tells us of an <hi>Indian</hi> Doctor who cured all Diſeaſes with the juice of one Plant.</p>
+            <p>And <hi>Piſo</hi> ſaith, that the <hi>Braſilian</hi> Botaniſts
+<pb n="4" facs="tcp:33362:3" rendition="simple:additions"/>make all their ſecret Remedies out of ſimples, with which they work wonders.</p>
+            <p>Dr. <hi>Willis,</hi> in his Treatiſe of Epilepſys, ſaith, That Specifick Remedies, although they cure Diſeaſes without any ſenſible Evacuation, yet not without ſome formal Reaſon or Virtue of acting proper to themſelves, which may be wondered at, but not deſcribed ; they reſiſt the Heterogenious matter, cauſing the Diſeaſes juſt as Gun-powder ſprinkled with Oyl of Vitriol looſeth its thundering Virtue.</p>
+            <p>My Deſign in this Sheet is only to give the World an account of a particular Plant brought from <hi>India,</hi> that hath a Specifick qua<g ref="char:EOLhyphen"/>lity againſt Deafneſs, and hath cured many who have been thought to be incurable; it's called <hi>Em-wort,</hi> the <hi>Indian</hi> Name I know not: One of your <hi>London</hi> Quacks, who in his Print<g ref="char:EOLhyphen"/>ed Bills promiſeth great matters, and performs little; for when many Deaf People have been tyred out by his pretended Secrets, and found no advantage, they have been relieved by this Herb, partly by drinking the Spirits drawn
+<pb n="5" facs="tcp:33362:3" rendition="simple:additions"/>out of it, and mingled in all their Drink, and partly by Syringing the Ear with the Tincture of the ſame, and taking as much as a Pea of the Extract at Night going to reſt.</p>
+            <p>The Herb is of an excellent Aromatique Quality, it taſts warm like a Nutmeg, and yet cool like Niter; it mightily comforts the Brain, and quickens the Senſes, and hath been found wonderful uſeful to Deaf Perſons, as might be proved by many Examples.</p>
+            <p>Its real uſe and admirable virtue much excels the two coſtly Jewels that the Queen of <hi>Egypt</hi> wore in her Ears for Ornament, It muſt be confeſs'd, that many Bruit Creatures, whoſe Ears are ſuffer'd to grow large, and according to Nature are much quicker in hearing than many Men, forasmuch as Midwifes and Nurſes by the Fillets and ſtraight binding of the Ears cloſe to the Heads of Chil<g ref="char:EOLhyphen"/>dren, they hinder the Contraction of the Air.</p>
+            <p>In a Battel between the <hi>Turks</hi> and the <hi>Chriſti<g ref="char:EOLhyphen"/>ans</hi> the General gave order that one of the
+<pb n="6" facs="tcp:33362:4" rendition="simple:additions"/>Ears of the ſlain Chriſtians ſhould be cut off, and put into a ſack, that the Number of them might certainly be known. Such dreadful Ef<g ref="char:EOLhyphen"/>fects are many times produced by extremity of cold Weather in ſome Northern Climates, which rotts off the very Ears of People, and then the remedy is a Silver Trumpet, or the hollow Shell of a Fiſh applyed to the Ear.</p>
+            <p>The account which you have given the World of the Nature of Specifick. Remedies, and the manner how they opperate is very ſatis<g ref="char:EOLhyphen"/>factory: And we find by Experience that this Plant opperates ſtrangely upon the Senſe of Hearing; if the Deafneſs proceed from the Obſtructions of the Auditory Nerves, this Spe<g ref="char:EOLhyphen"/>cifick removes thoſe ſtoppages; it alſo wipes off thoſe moiſt clammy Humours which co<g ref="char:EOLhyphen"/>ver the Drum of the Ear, and hinder the pe<g ref="char:EOLhyphen"/>netration of ſounds; it alſo diſperſeth windy Vapours, which by their Noiſe in the Head cauſe Deafneſs: The Spirit of this Herb held in the Mouth by a ſecret paſſage from the Ear, purge them by Salivation; that there is ſuch a paſſage is evident, forasmuch as many People
+<pb n="7" facs="tcp:33362:4" rendition="simple:additions"/>hear beſt when their Mouths are open.</p>
+            <p>I knew an old Man who was exceeding deaf, that he could not hear the Bells ring, although he were near the Church, yet upon the uſe of this Herb taken inwardly, and the fume of it received into the Ear through a Funnel, was wonderfully reſtored to his Hearing.</p>
+            <p>A young Perſon who by ſtanding at a Win<g ref="char:EOLhyphen"/>dow loſt his Hearing, that he could not go to Church for many Weeks, at laſt being recom<g ref="char:EOLhyphen"/>mended to this Herb, he was reſtored to his Hearing in one Months time after he had purg<g ref="char:EOLhyphen"/>ed his Head with ſome proper agreeable Pills.</p>
+            <p>If the Deafneſs comes and goes by intermiſſi<g ref="char:EOLhyphen"/>ons, the Cure is the more probable; but if the Membranes of the Ear are broken or eaten through by corroding Humours, the Caſe is incurable, and it's beſt to acquaint the Patient with the true ſtate of the Caſe, and not deceive him with falſe hopes, as many Pretenders do.</p>
+            <p>I knew an old Lady, who went to the <hi>Bath</hi>
+               <pb n="8" facs="tcp:33362:5" rendition="simple:additions"/>to have thoſe Waters pumpt upon her Head, to Cure her Deafneſs, but proved very ineffectual, (although I have known them do ſervice to others) the Tincture of this Plant drank once a day in Sack cured her.</p>
+            <p>I knew another who had uſed Oyl of Al<g ref="char:EOLhyphen"/>monds and Civet, and Oyl of Ants Eggs, and all the other uſual Remedies, but to no purpoſe, until ſhe applyed her ſelf unto the uſe of the Medicines drawn out of this Herb, and then ſhe could hear the leaſt Noiſe, and the Watch<g ref="char:EOLhyphen"/>men knocking at the Doors in the Night was a great diſturbance to her.</p>
+            <p>As I have promiſed to give you an account of the Virtues and Specifick Qualities of ſeve<g ref="char:EOLhyphen"/>ral <hi>Indian</hi> Rarities, I ſhall continue to gratifie your Learned Curioſity, and approve my ſelf</p>
+            <closer>
+               <signed>
+                  <hi>Your Faithfull Friend,</hi> James Mullins.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33362:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
